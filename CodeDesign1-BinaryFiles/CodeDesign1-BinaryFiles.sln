@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeDesign1-BinaryFiles", "CodeDesign1-BinaryFiles\CodeDesign1-BinaryFiles.vcxproj", "{6904BD42-2504-4FF1-9778-7E2C787559F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Debug|x64.ActiveCfg = Debug|x64
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Debug|x64.Build.0 = Debug|x64
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Debug|x86.Build.0 = Debug|Win32
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Release|x64.ActiveCfg = Release|x64
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Release|x64.Build.0 = Release|x64
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Release|x86.ActiveCfg = Release|Win32
+		{6904BD42-2504-4FF1-9778-7E2C787559F8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4FD331-51C5-4EA7-A010-666EBE0C21B2}
+	EndGlobalSection
+EndGlobal

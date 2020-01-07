@@ -1,0 +1,3 @@
+Here is your Noisy Alarm-Clock
+Current Money :5
+Store Money raised up to :135

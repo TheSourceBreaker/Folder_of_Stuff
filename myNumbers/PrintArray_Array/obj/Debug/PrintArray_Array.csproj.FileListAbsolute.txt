@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\obj\Debug\PrintArray_Array.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\obj\Debug\PrintArray_Array.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\bin\Debug\PrintArray_Array.exe.config
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\bin\Debug\PrintArray_Array.exe
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\bin\Debug\PrintArray_Array.pdb
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\obj\Debug\PrintArray_Array.exe
+C:\Users\s199041\source\repos\myNumbers\PrintArray_Array\obj\Debug\PrintArray_Array.pdb

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\s199041\source\repos\introtoc++3\introtoc++3\source.cpp(37): warning C4552: '+': result of expression not used
+c:\users\s199041\source\repos\introtoc++3\introtoc++3\source.cpp(42): warning C4552: '+': result of expression not used
+  IntrotoC++3.vcxproj -> C:\Users\s199041\source\repos\IntrotoC++3\Debug\IntrotoC++3.exe

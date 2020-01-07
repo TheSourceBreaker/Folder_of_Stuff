@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\SumGrid\SumGrid\bin\Debug\SumGrid.exe.config
+C:\Users\s199041\source\repos\SumGrid\SumGrid\bin\Debug\SumGrid.exe
+C:\Users\s199041\source\repos\SumGrid\SumGrid\bin\Debug\SumGrid.pdb
+C:\Users\s199041\source\repos\SumGrid\SumGrid\obj\Debug\SumGrid.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\SumGrid\SumGrid\obj\Debug\SumGrid.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\SumGrid\SumGrid\obj\Debug\SumGrid.exe
+C:\Users\s199041\source\repos\SumGrid\SumGrid\obj\Debug\SumGrid.pdb

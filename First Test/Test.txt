@@ -1,0 +1,9 @@
+A modular approach to implementing logic
+//Class inheritance
+/Two arrays of user defined data types-----
+/At least two classes containing four or more instance variables-----
+At least one instance of an overloaded constructor------
+A class implementing user-defined object aggregation------
+//Polymorphism
+Reading from and writing to a text file------
+Use of debugging tools within an IDE to debug and resolve project errors

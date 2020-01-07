@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\Formula\Formula\bin\Debug\Formula.exe.config
+C:\Users\s199041\source\repos\Formula\Formula\bin\Debug\Formula.exe
+C:\Users\s199041\source\repos\Formula\Formula\bin\Debug\Formula.pdb
+C:\Users\s199041\source\repos\Formula\Formula\obj\Debug\Formula.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\Formula\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\Formula\Formula\obj\Debug\Formula.exe
+C:\Users\s199041\source\repos\Formula\Formula\obj\Debug\Formula.pdb

@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\bin\Debug\SumArray_Array.exe.config
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\bin\Debug\SumArray_Array.exe
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\bin\Debug\SumArray_Array.pdb
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\obj\Debug\SumArray_Array.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\obj\Debug\SumArray_Array.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\obj\Debug\SumArray_Array.exe
+C:\Users\s199041\source\repos\sumNumbers\SumArray_Array\obj\Debug\SumArray_Array.pdb

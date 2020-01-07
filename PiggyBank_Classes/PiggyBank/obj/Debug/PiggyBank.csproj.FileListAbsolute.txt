@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\s199041\source\repos\PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb

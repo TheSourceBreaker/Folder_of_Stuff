@@ -1,0 +1,7 @@
+C:\Users\s199041\source\repos\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\s199041\source\repos\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\s199041\source\repos\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\s199041\source\repos\Grid\Grid\obj\Debug\Grid.csprojAssemblyReference.cache
+C:\Users\s199041\source\repos\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\s199041\source\repos\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\s199041\source\repos\Grid\Grid\obj\Debug\Grid.pdb

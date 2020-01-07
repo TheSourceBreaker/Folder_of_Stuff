@@ -1,0 +1,23 @@
+1. If you mean organization, that may prove a bit difficult at first due to my tactics. Though my work will be cleaned after I made sure
+   everything is working order.
+
+2. My Thrift store would have a class base called "Inventories" it would include the variables "Glass_Vase, Sofa, and Novelty_Hat" and possibly more.
+  The variables will need to be interchangeable, so that I can switch their locations from the Store's Inventory to the Character's Inventory.
+
+3. The data types i'll be using arrays on would be for "Narration" and possibly the "Currency".
+
+4. My two classes containing the variables would be the "Currency" and "Fail" class, the Currency would have the Player(and Store)Money Var and
+  the Fail would so far have "Price" but it may change.
+
+5. I'll be honest I don't know what an "overloaded constructor" is or how to use/fix it. Not yet that is.
+
+6. I think I have a basic understanding of object aggregation. Its used when combining two objects together to create a parent-child relationship
+   with them. Though i'm not too sure when I would need to use it.
+
+7. Polymorphism is practically having one or more classes use another class' material for the creation of something on their part. Though I may
+   need to find out what/how I would use it (with).
+
+8. I may not know how to make the system read from a text file too well, but the writing portion is similar to just writing the "Narrative" into
+   text with qoutes.
+
+9. The Debugging tool should be simple to use. Though if a problem rises, i'll call for help.

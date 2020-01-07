@@ -1,0 +1,14 @@
+C:\Users\wtfpa\source\repos\ThriftStore\bin\Debug\ThriftStore.exe.config
+C:\Users\wtfpa\source\repos\ThriftStore\bin\Debug\ThriftStore.exe
+C:\Users\wtfpa\source\repos\ThriftStore\bin\Debug\ThriftStore.pdb
+C:\Users\wtfpa\source\repos\ThriftStore\obj\Debug\ThriftStore.csprojAssemblyReference.cache
+C:\Users\wtfpa\source\repos\ThriftStore\obj\Debug\ThriftStore.csproj.CoreCompileInputs.cache
+C:\Users\wtfpa\source\repos\ThriftStore\obj\Debug\ThriftStore.exe
+C:\Users\wtfpa\source\repos\ThriftStore\obj\Debug\ThriftStore.pdb
+C:\Users\s199041\Desktop\ThriftStore\obj\Debug\ThriftStore.exe
+C:\Users\s199041\Desktop\ThriftStore\obj\Debug\ThriftStore.pdb
+C:\Users\s199041\Desktop\ThriftStore\obj\Debug\ThriftStore.csprojAssemblyReference.cache
+C:\Users\s199041\Desktop\ThriftStore\obj\Debug\ThriftStore.csproj.CoreCompileInputs.cache
+C:\Users\s199041\Desktop\ThriftStore\bin\Debug\ThriftStore.exe.config
+C:\Users\s199041\Desktop\ThriftStore\bin\Debug\ThriftStore.exe
+C:\Users\s199041\Desktop\ThriftStore\bin\Debug\ThriftStore.pdb
